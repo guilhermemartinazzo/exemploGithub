@@ -38,7 +38,7 @@ public class ExemploGit {
     }
     
     public static void main(String[] args) {
-        //Comentario adicionado
+        //Alterei essa linha no dev0001
         System.out.println("teste git");
         List<ExemploGit> objetos = Arrays.asList(
                 new ExemploGit("Asdfg", 1),
