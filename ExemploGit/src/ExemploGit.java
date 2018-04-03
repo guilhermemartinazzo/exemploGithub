@@ -50,7 +50,6 @@ public class ExemploGit {
                 new ExemploGit("TYe", 5)
                 );
         ordenarListaPorNumero(objetos);
-        //lol
         System.out.println(objetos.toString());
     }
 
