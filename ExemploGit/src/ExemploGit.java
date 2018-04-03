@@ -43,7 +43,8 @@ public class ExemploGit {
         List<ExemploGit> objetos = Arrays.asList(
                 new ExemploGit("Asdfg", 1),
                 new ExemploGit("Gaseqwe", 3),
-                new ExemploGit("baei", 2)
+                new ExemploGit("baei", 2),
+                new ExemploGit("TYe", 5)
                 );
         ordenarListaPorNumero(objetos);
         
