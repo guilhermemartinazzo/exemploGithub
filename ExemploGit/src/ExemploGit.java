@@ -49,6 +49,7 @@ public class ExemploGit {
                 );
         ordenarListaPorNumero(objetos);
         System.out.println(objetos.toString());
+        //Comentario adicionado
     }
 
     private static void ordenarListaPorNumero(List<ExemploGit> objetos) {
