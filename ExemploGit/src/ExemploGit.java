@@ -38,9 +38,7 @@ public class ExemploGit {
     }
     
     public static void main(String[] args) {
-        //Teste conflito
         System.out.println("teste git");
-        //Esse eh o branch teste...
         List<ExemploGit> objetos = Arrays.asList(
                 new ExemploGit("Asdfg", 1),
                 new ExemploGit("Gaseqwe", 3),
@@ -50,7 +48,6 @@ public class ExemploGit {
                 new ExemploGit("TYe", 5)
                 );
         ordenarListaPorNumero(objetos);
-        //lol
         System.out.println(objetos.toString());
     }
 
